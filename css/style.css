@@ -1,0 +1,42 @@
+/*css style*/
+
+body {
+    margin: 0;
+}
+
+section {
+    height: 100vh;
+    padding: 250px 300px 250px 300px;
+}
+
+#welcome-section {
+    
+    background-color: brown;
+    color: cornsilk;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: larger;
+    font-style: italic;
+}
+
+.navbar {
+
+    margin-bottom: 0px;
+    
+}
+#projects{
+
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+    font-style:italic;
+    font-weight: bold;
+    color: rgb(71, 32, 32);
+    background-color: rgb(189, 189, 189)
+}
+.media {
+    height: 25px;
+    width: 25px;
+}
+
+
